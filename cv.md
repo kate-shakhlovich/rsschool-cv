@@ -26,8 +26,6 @@ Eager to acquire new knowledge and skills in programming. Good communication ski
 ## Education
 Belarusian State Technological University  
 
-2003-2008  
-
 Skyeng  
 
 ## Languages
