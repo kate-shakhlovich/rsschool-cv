@@ -1,0 +1,50 @@
+body {
+    color: black;
+    background-color: rgb(170, 165, 165);
+    background-image: url(paper.png);
+    background-size: 100% 100%;
+    /*background-repeat: no-repeat;*/
+    background-position: 50% 50%;
+    font-family: "Arial", "Tahoma", sans-serif;
+    
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 20px;
+} 
+
+p {
+    text-align: left;
+    margin-left: 30px;
+    /*font-size: 18px;*/
+}
+
+/*.progress {
+    margin-left: 5px;
+}*/
+
+.container {
+    max-width: 1024px;
+    margin: 50px 150px 150px 150px;
+  }
+.avatar {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    }
+.uppercase {
+    text-transform: uppercase;
+}
+
+.text-align-center {
+   text-align: center; 
+}
+
+.label {
+    font-weight: bold;
+    margin-right: 10px;
+}
