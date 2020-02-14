@@ -1,56 +1,45 @@
 body {
-    color: black;
-    background-color: rgb(170, 165, 165);
-    background-image: url(list.jpg);
-    background-size: 130% 110%;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    font-family: "Arial", "Tahoma", sans-serif;
-    
+  color: black;
+  background-color: rgb(170, 165, 165);
+  background-image: url(images/list.jpg);
+  background-size: 130% 110%;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  font-family: "Arial", "Tahoma", sans-serif;
 }
 
 h1 {
-    font-size: 26px;
+  font-size: 26px;
 }
 
 h2 {
-    font-size: 20px;
-} 
+  font-size: 20px;
+}
 
 p {
-    text-align: left;
-    margin-left: 30px;
-    /*font-size: 18px;*/
+  text-align: left;
+  margin-left: 30px;
+  /*font-size: 18px;*/
 }
 
 .container {
-    max-width: 1024px;
-    margin: 50px 150px 150px 150px;
-  }
+  max-width: 1024px;
+  margin: 50px 150px 150px 150px;
+}
 .avatar {
-    text-align: center;
-    margin-top: 100px;
-    margin-bottom: 30px;
-    }
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
 .uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .text-align-center {
-   text-align: center; 
+  text-align: center;
 }
 
 .label {
-    font-weight: bold;
-    margin-right: 10px;
-    
-}
-
-.logo {
-    margin-left: 70px;
-    margin-top: 0;
-    
-}
-a.logo-label {
-    margin-top: 60px;
+  font-weight: bold;
+  margin-right: 10px;
 }
